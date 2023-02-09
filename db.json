@@ -1,0 +1,16 @@
+{
+    "clientes":[
+        {"idCliente": 1, "nome": "Jessica", "animal": "Cachorro"},
+        {"idCliente": 2, "nome": "Roberto", "animal": "Gato"},
+        {"idCliente": 3, "nome": "Thabita", "animal": "Cachorro"}],
+    
+    "funcionarios":[
+        {"idFuncionario": 1, "cargo": "Caixa", "nome": "Safira"},
+        {"idFuncionario": 2, "cargo": "Cuidador", "nome": "Richard"},
+        {"idFuncionario": 3, "cargo": "Gerente", "nome": "Verônica"}],
+
+    "servicos":[
+        {"idServico": 1, "servico": "Banho", "preco": 60.00},
+        {"idServico": 2, "servico": "Tosa", "preco": 40.00},
+        {"idServico": 3, "servico": "Combo", "preco": 80.00}]
+}
