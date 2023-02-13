@@ -1,6 +1,6 @@
 <h1 align="center">Projeto Individual Módulo 3</h1>
 
-<h2>  Me Victor, e esse é um projeto desenvolvido durante o bootcamp da Resilia Educação. </h2>
+<h2>  Me chamo Victor, e esse é um projeto desenvolvido durante o bootcamp da Resilia Educação. </h2>
 
 <h2>Tema:</h2>
 <p>O tema escolhido:Petshop</p>
