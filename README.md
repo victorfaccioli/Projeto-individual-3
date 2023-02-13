@@ -34,10 +34,17 @@
 
 <h3>Exemplos:</h3>
 
-GET (acessar um dado):
-POST (inserir dados):
-PUT (alterar um dado):
-DELETE (excluir um dado):
+<p>GET (acessar um dado):</p>
+![image](https://user-images.githubusercontent.com/114197531/218571572-a1c50835-6f4a-4966-8067-84ed4fface3c.png)
+
+<p>POST (inserir dados):</p>
+![image](https://user-images.githubusercontent.com/114197531/218571640-1b24b05d-4954-42dd-88ec-2370cd52c383.png)
+
+<p>PUT (alterar um dado):</p>
+![image](https://user-images.githubusercontent.com/114197531/218571665-ff936cab-5a62-4c54-b23e-b07515bf0371.png)
+
+<p>DELETE (excluir um dado):</p>
+![image](https://user-images.githubusercontent.com/114197531/218571683-76b7552e-532f-4b89-92d6-6052cde0dedb.png)
 
 <h2>Segue imagens como exemplo</h2>
 
