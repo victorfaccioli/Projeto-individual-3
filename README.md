@@ -35,16 +35,13 @@
 <h3>Exemplos:</h3>
 
 <p>GET (acessar um dado):</p>
-![image](https://user-images.githubusercontent.com/114197531/218571572-a1c50835-6f4a-4966-8067-84ed4fface3c.png)
-
+<img width="700" alt="GET" src="https://user-images.githubusercontent.com/114197531/218573542-812406f6-ba4b-42d8-a49b-c0cef2028a58.PNG">
 <p>POST (inserir dados):</p>
-![image](https://user-images.githubusercontent.com/114197531/218571640-1b24b05d-4954-42dd-88ec-2370cd52c383.png)
-
+<img width="700" alt="POST" src="https://user-images.githubusercontent.com/114197531/218573651-34cf8b72-cb5d-4d6f-8b62-efdded022d94.PNG">
 <p>PUT (alterar um dado):</p>
-![image](https://user-images.githubusercontent.com/114197531/218571665-ff936cab-5a62-4c54-b23e-b07515bf0371.png)
-
+<img width="700" alt="PUT" src="https://user-images.githubusercontent.com/114197531/218573716-87b0796a-f7e0-4acd-b9b8-22b01e897fe1.PNG">
 <p>DELETE (excluir um dado):</p>
-![image](https://user-images.githubusercontent.com/114197531/218571683-76b7552e-532f-4b89-92d6-6052cde0dedb.png)
+<img width="700" alt="DELETE" src="https://user-images.githubusercontent.com/114197531/218573733-6c1c4e69-05a9-4d19-b902-25f60c834de5.PNG">
 
 <h2>Segue imagens como exemplo</h2>
 
