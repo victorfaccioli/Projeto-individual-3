@@ -45,9 +45,6 @@
 
 <p>Obs:Trocar de body para JSON para que alterações sejam executadas com sucesso</p>
 
-<h2>Segue imagens como exemplo</h2>
-
-
 <h2> Rotas </h2>
 
 | Rotas   | Tipo       |
