@@ -1,16 +1,58 @@
 {
-    "clientes":[
-        {"idCliente": 1, "nome": "Jessica", "animal": "Cachorro"},
-        {"idCliente": 2, "nome": "Roberto", "animal": "Gato"},
-        {"idCliente": 3, "nome": "Thabita", "animal": "Cachorro"}],
-    
-    "funcionarios":[
-        {"idFuncionario": 1, "cargo": "Caixa", "nome": "Safira"},
-        {"idFuncionario": 2, "cargo": "Cuidador", "nome": "Richard"},
-        {"idFuncionario": 3, "cargo": "Gerente", "nome": "Verônica"}],
-
-    "servicos":[
-        {"idServico": 1, "servico": "Banho", "preco": 60.00},
-        {"idServico": 2, "servico": "Tosa", "preco": 40.00},
-        {"idServico": 3, "servico": "Combo", "preco": 80.00}]
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Jessica",
+      "animal": "Cachorro"
+    },
+    {
+      "id": 2,
+      "nome": "Roberto",
+      "animal": "Gato"
+    },
+    {
+      "nome": "Victor",
+      "animal": "Gato e e Cachorro",
+      "id": 3
+    },
+    {
+      "nome": "Romario",
+      "animal": "Cachorro",
+      "id": 4
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "cargo": "Caixa",
+      "nome": "Safira"
+    },
+    {
+      "id": 2,
+      "cargo": "Cuidador",
+      "nome": "Richard"
+    },
+    {
+      "id": 3,
+      "cargo": "Gerente",
+      "nome": "Verônica"
+    }
+  ],
+  "servicos": [
+    {
+      "id": 1,
+      "servico": "Banho",
+      "preco": 60
+    },
+    {
+      "id": 2,
+      "servico": "Tosa",
+      "preco": 40
+    },
+    {
+      "id": 3,
+      "servico": "Combo",
+      "preco": 80
+    }
+  ]
 }
