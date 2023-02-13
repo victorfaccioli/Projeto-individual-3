@@ -43,6 +43,8 @@
 <p>DELETE (excluir um dado):</p>
 <img width="700" alt="DELETE" src="https://user-images.githubusercontent.com/114197531/218573733-6c1c4e69-05a9-4d19-b902-25f60c834de5.PNG">
 
+<p>Obs:Trocar de body para JSON para que alterações sejam executadas com sucesso</p>
+
 <h2>Segue imagens como exemplo</h2>
 
 
